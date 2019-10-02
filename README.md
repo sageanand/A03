@@ -1,5 +1,18 @@
 # A03
 
+STEP BY STEP TUTORIAL ON HOW TO USE GIT/GITHUB. 
+*These steps are neccessary to succesfully be able to setup and use GITHUB*
+*All of the definitions of the terms used in the steps are down below* 
+
+**Step #1** - Create a GitHub account (github.com) and choose the free version. 
+
+**Step #2** - Create a new repository (This will allow you to organize a project. A repository can also contain folder and files, images, videos, etc. 
+         **Step #2.1** - In order to create a repository, click (New Repository) on upper right hand corner. 
+         **Step #2.2** - Name the repository (It is better to name the repository depending on the project you are working on)
+         **Step #2.3** - Choose public or private repository (Depending on if you would like to share your repository with other members                          of your group or not)
+         **Step #2.4** - Click Create Repository
+
+**Definitions** - 
 
 GIT -
 GIT is a freely distributed version control that is used to create or manage a project's source code history. GIT was first released in 2005 and is currently maintained by LINUX foundation. The primarily and the basic focus of such a tool is code sharing and is widely used in various universities.
